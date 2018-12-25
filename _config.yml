@@ -1,8 +1,8 @@
 # Site settings
 # in the templates available like {{ site.myvariable }}.
-title: Lingyu Li, VR Developer.
+title: VR Developer.
 email: lingyu.li@rutgers.edu
-brand: Luke217
+brand: Lingyu (Luke) Li
 headline: Intuitive VR developer
 description: > # this means to ignore newlines until "baseurl:"
    Lingyu Li's Portfolio
