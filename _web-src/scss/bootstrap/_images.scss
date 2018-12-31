@@ -8,7 +8,9 @@
 .img-fluid {
   @include img-fluid();
 }
-
+.img-fluid:hover{
+  opacity: 75%;
+}
 // Rounded corners
 .img-rounded {
   @include border-radius($border-radius-lg);
